@@ -8,4 +8,6 @@ KalpanaLabs has been established with the vision of generating interest in the f
 
 ✅ Introduce them to actual coding in Python using IPython notebooks on Google Colab.
 
+✅ Solve simple and complex word problems using concepts like addition, subtraction, multiplication, division, and remainders (modulo operator).
+
 (... To be declared soon ...)
