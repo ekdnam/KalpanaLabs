@@ -10,4 +10,8 @@ KalpanaLabs has been established with the vision of generating interest in the f
 
 ✅ Solve simple and complex word problems using concepts like addition, subtraction, multiplication, division, and remainders (modulo operator).
 
+✅ Introduce the children and parents to the concept of GitHub. GitHub accounts created.
+
+✅ Introduce strings.
+
 (... To be declared soon ...)
